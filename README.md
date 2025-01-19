@@ -6,7 +6,7 @@
 [![SIM](../../actions/workflows/sim.yaml/badge.svg)](../../actions/workflows/sim.yaml)
 
 # Who
-Tord Olsen Sætermo, aka tordos or tordnado
+Tord Olsen Sætermo, aka tordos or Tordnado
 
 # Why
 
@@ -19,8 +19,8 @@ Tord Olsen Sætermo, aka tordos or tordnado
 
 # What
 
-| What            | Cell/Name   		     |
-| :---:           | :---:        		     |
+| What            | Cell/Name   		             |
+| :---:           | :---:        		             |
 | Schematic       | design/JNW_EX_SKY130A/JNW_EX.sch |
 | Layout          | design/JNW_EX_SKY130A/JNW_EX.mag |
 

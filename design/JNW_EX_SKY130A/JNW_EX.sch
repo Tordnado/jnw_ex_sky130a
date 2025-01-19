@@ -40,6 +40,6 @@ user="wulff"
 company="wulff"}
 C {devices/ipin.sym} -380 -240 0 0 {name=p1 lab=IBPS_5U}
 C {devices/ipin.sym} -380 -120 0 0 {name=p2 lab=VSS}
-C {devices/ipin.sym} -100 -240 0 1 {name=p3 lab=IBNS_20U}
 C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} -180 -180 0 0 {name=xo[3:0]}
 C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} -260 -180 0 1 {name=xi }
+C {devices/opin.sym} -100 -240 0 0 {name=p3 lab=IBNS_20U}

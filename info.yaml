@@ -1,15 +1,15 @@
 library: JNW_EX_SKY130A
 cell: JNW_EX
 # Your name
-author: Anonymous
+author: Tord
 # Your github username
-github: analogicus
+github: Tordnado
 # Something funny and descriptive
 tagline: The answer is 42
 # Your email, if you so wish
-email: anon@anon.com
+email: tord.saetermo@gmail.com
 # Your github site, usually <github username>.github.io
-url: analogicus.github.io
+url: none.at.the.moment
 doc:
   # Make docs
   #libraries:
