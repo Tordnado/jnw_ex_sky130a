@@ -9,12 +9,15 @@ tagline: The answer is 42
 # Your email, if you so wish
 email: tord.saetermo@gmail.com
 # Your github site, usually <github username>.github.io
-url: none.at.the.moment
+url: https://github.com/Tordnado
 doc:
   # Make docs
   #libraries:
   #   <library>:
   #       - <cell>
   #       - <cell>
+  JNW_EX_SKY130A:
+      - JNW_EX
 sim:
   # <simdir>: command
+  JNW_EX: make typical
