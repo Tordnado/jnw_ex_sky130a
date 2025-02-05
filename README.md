@@ -11,11 +11,12 @@ Tord Olsen Sætermo, aka tordos or Tordnado
 # Why
 
 <explain why you made this module>
+Test
 
 # How
 
 <explain short how you made this module>
-
+Trial and error
 
 # What
 
