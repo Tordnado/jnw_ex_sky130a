@@ -6,41 +6,40 @@
 [![SIM](../../actions/workflows/sim.yaml/badge.svg)](../../actions/workflows/sim.yaml)
 
 # Who
-Tord Olsen Sætermo, aka tordos or Tordnado
+Tord Olsen Sætermo.
 
 # Why
 
 <explain why you made this module>
-Test
+To get experience in the design process and design tools of integrated circuits.
 
 # How
 
 <explain short how you made this module>
-Trial and error
+Trial and error.
 
 # What
 
-| What            | Cell/Name   		             |
-| :---:           | :---:        		             |
+| What            | Cell/Name   		                 |
+| :---:           | :---:        		                 |
 | Schematic       | design/JNW_EX_SKY130A/JNW_EX.sch |
 | Layout          | design/JNW_EX_SKY130A/JNW_EX.mag |
-
 
 # Changelog/Plan
 
 | Version | Status | Comment   	    |
 | :---:   | :---:  | :---:          |
-| 0.1.0   | :x:    | Make something |
-
+| 0.1.0   | :x:    | Make schematic |
+| 0.2.0   | :x:    | Make layout    |
 
 # Signal interface
 
-| Signal       | Direction | Domain  | Description              |
-| :---:        | :---:     | :---:   | :---:                    |
-| VDD_1V8      | Input     | VDD_1V8 | Main supply              |
-| VSS          | Input     | Ground  |                          |
-| PWRUP_1V8    | Input     | VDD_1V8 | Power up the circuit     |
-
+| Signal       | Direction | Domain  | Description     |
+| :---:        | :---:     | :---:   | :---:           |
+| VDD_1V8      | Input     | VDD_1V8 | Main supply     |
+| VSS          | Input     | Ground  |                 |
+| IBPS_5U      | Input     | IBPS_5U | Input current   |
+| IBNS_20U     | Output    | IBNS_20U | Output current |
 
 # Key parameters
 
