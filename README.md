@@ -29,8 +29,8 @@ Trial and error.
 
 | Version | Status | Comment   	    |
 | :---:   | :---:  | :---:          |
-| 0.1.0   | :x:    | Make schematic |
-| 0.2.0   | :x:    | Make layout    |
+| 0.1.0   | ✔️    | Make schematic |
+| 0.2.0   | ✖️    | Make layout    |
 
 # Signal interface
 
