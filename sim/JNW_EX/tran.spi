@@ -24,9 +24,10 @@
 * FORCE
 *-----------------------------------------------------------------
 VSS  VSS  0     dc 0
-VDD  VDD_1V8  VSS  pwl 0 0 10n {AVDD}
+*VDD  VDD_1V8  VSS  pwl 0 0 10n {AVDD}
 IBP 0 IBPS_5U dc 5u
-V0  IBNS_20U 0 dc 1
+V0  IBNS_20U 0 dc 0.685 
+* Supply changed from 1 V to 0.685 V as that is the simulated VDS over M1 (the other transistor in the current mirror)
 
 *-----------------------------------------------------------------
 * DUT
