@@ -11,7 +11,7 @@ Tord Olsen Sætermo.
 # Why
 
 <explain why you made this module>
-To get experience in the design process and design tools of integrated circuits.
+To get experience in the design process and design tools of integrated circuits as part of the course TFE4188 Advanced Integrated Circuits at the Norwegian University of Science and Technology (NTNU) during the spring semester of 2025.
 
 # How
 
@@ -27,10 +27,12 @@ Trial and error.
 
 # Changelog/Plan
 
-| Version | Status | Comment   	    |
-| :---:   | :---:  | :---:          |
-| 0.1.0   | ✔️    | Make schematic |
-| 0.2.0   | ✖️    | Make layout    |
+| Version | Status | Comment   	   |
+| :---:   | :---:  | :---:         |
+| 0.1.0   | ☑️    | Make schematic |
+| 0.2.0   | ☑️    | Make layout    |
+| 0.2.1   | ❎    | Pass LVS       |
+| 0.2.2   | ❎    | Pass DRC       |
 
 # Signal interface
 
