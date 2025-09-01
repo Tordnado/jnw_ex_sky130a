@@ -31,8 +31,8 @@ Trial and error.
 | :---:   | :---:  | :---:         |
 | 0.1.0   | ☑️    | Make schematic |
 | 0.2.0   | ☑️    | Make layout    |
-| 0.2.1   | ❎    | Pass LVS       |
-| 0.2.2   | ❎    | Pass DRC       |
+| 0.2.1   | ☑️    | Pass LVS       |
+| 0.2.2   | ☑️    | Pass DRC       |
 
 # Signal interface
 
