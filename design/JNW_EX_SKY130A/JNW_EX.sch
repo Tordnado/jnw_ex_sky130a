@@ -35,6 +35,7 @@ N -300 -150 -300 -120 {lab=VSS}
 N -140 -140 -140 -120 {lab=VSS}
 N -100 -140 -100 -120 {lab=VSS}
 N -310 -240 -300 -240 {lab=IBPS_5U}
+N -100 -240 -60 -240 {}
 C {cborder/border_s.sym} 500 10 0 0 {
 user="wulff"
 company="wulff"}
@@ -42,4 +43,4 @@ C {devices/ipin.sym} -390 -240 0 0 {name=p1 lab=IBPS_5U}
 C {devices/ipin.sym} -380 -120 0 0 {name=p2 lab=VSS}
 C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} -180 -180 0 0 {name=xo[3:0]}
 C {JNW_ATR_SKY130A/JNWATR_NCH_4C5F0.sym} -260 -180 0 1 {name=xi }
-C {devices/opin.sym} -100 -240 0 0 {name=p3 lab=IBNS_20U}
+C {devices/opin.sym} -60 -240 0 0 {name=p3 lab=IBNS_20U}
