@@ -38,7 +38,7 @@ Trial and error.
 
 | Signal       | Direction | Domain  | Description     |
 | :---:        | :---:     | :---:   | :---:           |
-| VDD_1V8      | Input     | VDD_1V8 | Main supply     |
+| VDD_1V8      | Input     | VDD_1V8 | ~~Main supply~~ (inactive)|
 | VSS          | Input     | Ground  |                 |
 | IBPS_5U      | Input     | IBPS_5U | Input current   |
 | IBNS_20U     | Output    | IBNS_20U | Output current |
